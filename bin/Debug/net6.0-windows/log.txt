@@ -1,0 +1,315 @@
+[[I:\MVS\EasyChair2\MainWindow.xaml.cs:  72]|[6/24/2022 15:52:55]]:
+Input string was not in a correct format.
+
+[[I:\MVS\EasyChair2\MainWindow.xaml.cs:  72]|[6/24/2022 15:52:58]]:
+Input string was not in a correct format.
+
+[[I:\MVS\EasyChair2\MainWindow.xaml.cs:  72]|[6/24/2022 15:53:06]]:
+Method 'GetServiceProviderHashCode' in type 'ExtensionInfo' from assembly 'MySql.Data.EntityFrameworkCore, Version=8.0.22.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d' does not have an implementation.
+
+[[I:\MVS\EasyChair2\MainWindow.xaml.cs:  73]|[6/24/2022 16:03:52]]:
+Input string was not in a correct format.
+
+[[I:\MVS\EasyChair2\MainWindow.xaml.cs:  73]|[6/24/2022 16:03:54]]:
+Input string was not in a correct format.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:08]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:08]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:08]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:08]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:09]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:09]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:09]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:09]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:09]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:09]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:10]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:10]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:10]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:10]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:10]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:10]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:10]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:11]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:11]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:11]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:11]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:11]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:11]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:11]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:12]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:12]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:12]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:12]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:12]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:12]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:13]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:13]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:13]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:13]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:13]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:13]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:13]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:14]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:14]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:14]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:14]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:14]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:14]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:14]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:15]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:15]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:15]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:15]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:15]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:15]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:15]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:16]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:16]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:16]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:16]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:16]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:16]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:17]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:17]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:17]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:17]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:17]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:17]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:17]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:18]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:18]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:18]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:18]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:18]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:18]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:18]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:19]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:19]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:19]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:19]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:19]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:19]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:19]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:20]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:20]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:20]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:20]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:20]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:20]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:21]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:21]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:21]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:21]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:21]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:21]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:21]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:22]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:22]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:22]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:22]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:22]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:22]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:22]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:23]]:
+Index was outside the bounds of the array.
+
+[[I:\MVS\EasyChair2\Database\Import.cs:  85]|[6/24/2022 18:13:23]]:
+Index was outside the bounds of the array.
+
